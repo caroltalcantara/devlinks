@@ -1,7 +1,7 @@
 <h1 align="center">DevLinks</h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Esse é o meu primeiro projeto de desenvolvimento web, e fico muito feliz em compartilhar com vocês ❤️
 </p>
 
 <p align="center">
